@@ -1,0 +1,21 @@
+[
+  {
+    "name": "JARVIS ",
+    "desc": "An intelligent voice-based assistant built with Python that automates tasks, answers queries, and manages system operations using speech recognition and AI integration.",
+    "category": "Voice Assistant",
+    "links": {
+      "view": "https://www.linkedin.com/posts/tanmoy-maiti-b75b2136a_ai-python-project-activity-7391797541488676864-YDT4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFulk0kB5VKL7ameTn3BNhdKWVcc8EEsqsQ",
+      "code": "https://github.com/Tanmoy2004-eng/JARVIS-main.git"
+    }
+  },
+  {
+    "name": "SkillMark",
+    "desc": "SkillMark is a trusted certification platform that verifies and showcases your skills with secure, industry-recognized digital certificates.",
+    "image": "skillmark",
+    "category": "marketing",
+    "links": {
+      "view": "https://iskillmark.vercel.app/",
+      "code": "https://github.com/Tanmoy2004-eng/Skillmarkt.git"
+    }
+  }
+]
