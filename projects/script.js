@@ -107,15 +107,21 @@ getProjects().then(data => {
 
 // Start of Tawk.to Live Chat
 var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+
 (function () {
-    var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+    var s1 = document.createElement("script"),
+        s0 = document.getElementsByTagName("script")[0];
+
     s1.async = true;
-    s1.src = 'https://tawk.to/chat/6939a06b5947ce197a70cc07/1jc4hlabu';
+    s1.src = 'https://embed.tawk.to/6939a06b5947ce197a70cc07/1jc4hlabu';  // Your chat receiver
+
     s1.charset = 'UTF-8';
     s1.setAttribute('crossorigin', '*');
+
     s0.parentNode.insertBefore(s1, s0);
 })();
-// End of Tawk.to Live Chat
+ // End of Tawk.to Live Chat
+
 
 // disable developer mode
 document.onkeydown = function (e) {
