@@ -9,6 +9,15 @@
     }
   },
   {
+    "name": "SecurePass ",
+    "desc": "SecurePass is a cybersecurity-focused web application that analyzes password strength in real time and estimates password cracking time. Built with HTML, CSS, and JavaScript, it provides security recommendations, requirement-based analysis, common-pattern detection, and a secure password generator while processing passwords locally in the browser.",
+    "category": "Cybersecurity",
+    "links": {
+      "view": "https://passwordsstrengthchecker.netlify.app/",
+      "code": "https://github.com/Tanmoy2004-eng/SecurePass_Password_Strength_Checker.git"
+    }
+  },
+  {
     "name": "SkillMark",
     "desc": "SkillMark is a trusted certification platform that verifies and showcases your skills with secure, industry-recognized digital certificates.",
     "image": "skillmark",
