@@ -10,7 +10,7 @@
   },
  {
     "name": "SecurePass ",
-    "desc": "**SecurePass** is a cybersecurity web application that checks password strength, estimates crack time, identifies security weaknesses, and generates strong passwords using HTML, CSS, and JavaScript.",
+    "desc": "SecurePass is a cybersecurity web application that checks password strength, estimates crack time, identifies security weaknesses, and generates strong passwords.",
     "category": "Cybersecurity",
     "links": {
       "view": "https://passwordsstrengthchecker.netlify.app/",
