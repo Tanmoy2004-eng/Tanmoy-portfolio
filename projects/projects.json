@@ -8,10 +8,9 @@
       "code": "https://github.com/Tanmoy2004-eng/JARVIS-main.git"
     }
   },
-  {
+ {
     "name": "SecurePass ",
-    "desc": "**SecurePass** is a web-based cybersecurity tool that analyzes password strength, estimates crack time, checks security requirements, and provides recommendations for creating stronger passwords.
-",
+    "desc": "SecurePass is a web-based cybersecurity tool that analyzes password strength, estimates crack time, checks security requirements, and provides recommendations for creating stronger passwords.",
     "category": "Cybersecurity",
     "links": {
       "view": "https://passwordsstrengthchecker.netlify.app/",
